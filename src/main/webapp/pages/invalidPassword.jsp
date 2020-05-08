@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Elocals</title>
+<title>Insert title here</title>
 </head>
 <body>
-	<h1>Welcome to ELOCALS</h1>
+	<h1>Invalid Password</h1>
 	<div>
 		<form action="loginRedirect" method="post">
 		<input type="submit" value="Login">
@@ -17,7 +17,5 @@
 		</form>
 	
 	</div>
-	
-	
 </body>
 </html>

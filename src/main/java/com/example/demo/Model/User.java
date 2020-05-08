@@ -17,7 +17,8 @@ public class User {
 	}
 
 	private String firstname,lastname,email,mob,password;
-
+	
+	
 	public String getFirstname() {
 		return firstname;
 	}
@@ -60,6 +61,7 @@ public class User {
 	public User() {
 		
 	}
+	
 	public User(String username,String firstname, String lastname, String email, String mob, String password) {
 		super();
 		this.username=username;
